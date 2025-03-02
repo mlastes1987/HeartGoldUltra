@@ -2,6 +2,8 @@
 
 ![Screenshot](heartgoldultra-boxart.jpg)
 
+Based on the hg-engine by [**BluRosie**](https://github.com/BluRosie/hg-engine)
+
 # Features:
 * Trade evolutions (Kadabra, Machoke, Haunter, Graveler/Alolan Graveler) evolve at lvl 36 or with a Linking Cord.
 * Dex Expansion (through Gen 6 almost entirely implemented)
