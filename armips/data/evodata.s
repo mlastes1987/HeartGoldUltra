@@ -13665,7 +13665,7 @@ evodata SPECIES_PERSIAN_ALOLAN
 terminateevodata
 
 evodata SPECIES_GEODUDE_ALOLAN
-    evolutionwithform EVO_LEVEL, 25, SPECIES_GRAVELER_ALOLAN, 1
+    evolutionwithform EVO_LEVEL, 25, SPECIES_GRAVELER, 1
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -13677,8 +13677,8 @@ evodata SPECIES_GEODUDE_ALOLAN
 terminateevodata
 
 evodata SPECIES_GRAVELER_ALOLAN
-    evolutionwithform EVO_LEVEL, 36, SPECIES_GOLEM_ALOLAN, 1
-    evolutionwithform EVO_STONE, ITEM_LINKING_CORD, SPECIES_GOLEM_ALOLAN, 1
+    evolutionwithform EVO_LEVEL, 36, SPECIES_GOLEM, 1
+    evolutionwithform EVO_STONE, ITEM_LINKING_CORD, SPECIES_GOLEM, 1
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
