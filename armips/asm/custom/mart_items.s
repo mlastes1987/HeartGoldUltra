@@ -14,17 +14,17 @@ FIVE_BADGES equ 4
 SEVEN_BADGES equ 5
 EIGHT_BADGES equ 6
 
-/* General Poké Mart Table */
-.org 0x020FBF22
+/* General Poké Mart Table 
+/* .org 0x020FBF22 
 
-.halfword ITEM_RARE_CANDY
-.halfword ZERO_BADGES
+.halfword ITEM_RARE_CANDY 
+.halfword ZERO_BADGES 
 
-.halfword ITEM_GREAT_BALL
-.halfword ONE_BADGE
+.halfword ITEM_GREAT_BALL 
+.halfword ONE_BADGE 
 
-.halfword ITEM_ULTRA_BALL
-.halfword THREE_BADGES
+.halfword ITEM_ULTRA_BALL 
+.halfword THREE_BADGES 
 
 .halfword ITEM_MASTER_BALL
 .halfword ZERO_BADGES
@@ -59,10 +59,10 @@ EIGHT_BADGES equ 6
 .halfword ITEM_MAX_REVIVE
 .halfword EIGHT_BADGES
 
-.halfword ITEM_FULL_HEAL
+.halfword ITEM_ANTIDOTE
 .halfword ZERO_BADGES
 
-.halfword ITEM_REPEL
+.halfword ITEM_PARLYZ_HEAL
 .halfword ZERO_BADGES
 
 .halfword ITEM_SUPER_REPEL
@@ -71,11 +71,11 @@ EIGHT_BADGES equ 6
 .halfword ITEM_MAX_REPEL
 .halfword FIVE_BADGES
 
-.halfword ITEM_POKE_DOLL
+.halfword ITEM_AWAKENING
 .halfword ZERO_BADGES
 
 /** Special Mart Index - This is not in byte order
-const u16 *_0210FA3C[] = {
+/* const u16 *_0210FA3C[] = {
     _020FBA54, 0
     _020FBA78, 1
     _020FBAB0, 2
