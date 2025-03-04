@@ -22,6 +22,8 @@ Based on the hg-engine by [**BluRosie**](https://github.com/BluRosie/hg-engine)
 * Updated Effects for Existing [Moves](https://github.com/users/BluRosie/projects/3) and [Abilities](https://github.com/users/BluRosie/projects/2)
 * 30 PC Boxes
 
+BE AWARE: Desmume is having issues that lead to the sprites glitching and then black screen after battles or looking at the menu screens.  Recommended emulator is MelonDS until further notice.
+
 *A more comprehensive list of features + a roadmap can be found by visiting the [hg-engine wiki](https://github.com/BluRosie/hg-engine/wiki).  Please read this README and the Wiki thoroughly before asking questions.*
 
 # Credits
