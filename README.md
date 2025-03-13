@@ -5,7 +5,7 @@
 Based on the hg-engine by [**BluRosie**](https://github.com/BluRosie/hg-engine)
 
 # Features:
-* Mart Items: All Marts have changed depending on badges.  Rare Candies and Master Balls are sold in all Pokemarts for free from the beginning and Linking Cords are sold for 1500 Pokedollars on the Goldenrod Dept. Store 5th Floor and Celadon City Department Store 3rd Floor.
+* Mart Items: Certain Marts have changed depending on badges.  Rare Candies and Master Balls are sold in all Pokemarts for free from the beginning and Linking Cords are sold for 1500 Pokedollars on the Goldenrod Dept. Store 5th Floor and Celadon City Department Store 3rd Floor.
 * Trade evolutions (Kadabra, Machoke, Haunter, Graveler/Alolan Graveler) evolve at lvl 36 or with a Linking Cord.
 * Dex Expansion (through Gen 6 almost entirely implemented)
 * Ability Expansion (through Gen 6 almost entirely implemented)
