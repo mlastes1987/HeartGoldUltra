@@ -5,7 +5,7 @@
 Based on the hg-engine by [**BluRosie**](https://github.com/BluRosie/hg-engine)
 
 # Features:
-* Mart Items: Certain Marts have changed depending on badges.  Rare Candies and Master Balls are sold in all Pokemarts for free from the beginning and Linking Cords are sold for 1500 Pokedollars on the Goldenrod Dept. Store 5th Floor and Celadon City Department Store 3rd Floor.
+* Mart Items: Certain Marts have changed depending on badges.  Rare Candies and Master Balls are sold in certain Pokemarts for free from the beginning and Linking Cords are sold for 1500 Pokedollars on the Goldenrod Dept. Store 5th Floor and Celadon City Department Store 3rd Floor.
 * Trade evolutions (Kadabra, Machoke, Haunter, Graveler/Alolan Graveler) evolve at lvl 36 or with a Linking Cord.
 * Dex Expansion (through Gen 6 almost entirely implemented)
 * Ability Expansion (through Gen 6 almost entirely implemented)
@@ -22,7 +22,7 @@ Based on the hg-engine by [**BluRosie**](https://github.com/BluRosie/hg-engine)
 * Updated Effects for Existing [Moves](https://github.com/users/BluRosie/projects/3) and [Abilities](https://github.com/users/BluRosie/projects/2)
 * 30 PC Boxes
 
-BE AWARE: Desmume is having issues that lead to the sprites glitching and then black screen after battles or looking at the menu screens.  Recommended emulator is MelonDS until further notice.
+BE AWARE: Desmume is having issues that lead to the sprites glitching and then black screen after battles or looking at the menu screens.  Recommended emulator is MelonDS until further notice and also do not use BIOS files, as this also makes the glitch happen.
 
 *A more comprehensive list of features + a roadmap can be found by visiting the [hg-engine wiki](https://github.com/BluRosie/hg-engine/wiki).  Please read this README and the Wiki thoroughly before asking questions.*
 
