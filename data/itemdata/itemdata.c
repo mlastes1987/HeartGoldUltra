@@ -40573,7 +40573,7 @@ const ITEMDATA __data[] =
 
 [ITEM_LINKING_CORD - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 8000,
+    .price = 1500,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
