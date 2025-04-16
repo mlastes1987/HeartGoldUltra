@@ -1,6 +1,6 @@
 # Heart Gold Ultra
 
-![Screenshot](heartgoldultra-box-art.jpg)
+![Screenshot](heartgoldultra-boxart.jpg)
 
 # Features:
 * Trade Evolutions (Kadabra, Machoke, Haunter, Graveler/Alolan Graveler) all evolve at level 37 or with a Linking Cord.
