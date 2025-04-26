@@ -1,10 +1,11 @@
-# Pokémon HeartGold and SoulSilver
+# HeartGold and SoulSilver Ultra
 
-This is a WIP disassembly of Pokémon HeartGold and SoulSilver. For instructions on how to set up the repository, please read [INSTALL.md](INSTALL.md).
+Based on the [**pokeheartgold**](https://github.com/pret/pokeheartgold) disassembly by pret.
 
-This repository builds the following ROMs:
+# Features to Come Soon:
 
-* [**pokeheartgold.us.nds**](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4787) `sha1: 4fcded0e2713dc03929845de631d0932ea2b5a37`
-* [**pokesoulsilver.us.nds**](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4788) `sha1: f8dc38ea20c17541a43b58c5e6d18c1732c7e582`
+- **Different Starters:** Starters are now changed to Bulbasaur, Torchic and Piplup.
+- **Pokemart/Item Changes:** Rare Candies and PP Max are now free and can be bought from the pokemart.
+- **Trade Evolutions:** Trade Evolutions (Machoke, Graveler, Haunter, Kadabra) evolve at lvl 37 and by using other mon's hold evolution items from the bag.
 
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+Coming soon...
