@@ -1,5 +1,7 @@
 # HeartGold and SoulSilver Ultra
 
+![Screenshot](heartgoldultra-boxart.jpg)
+
 Based on the [**pokeheartgold**](https://github.com/pret/pokeheartgold) disassembly by pret.
 
 # Features Currently Implemented:
