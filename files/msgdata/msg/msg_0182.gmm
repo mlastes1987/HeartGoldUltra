@@ -390,95 +390,95 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GS</language>
 	</row>
-	<row id="msg_0182_00093" index="93">
+	<row id="msg_0182_RuleNoOfPokemon" index="93">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No. of Pokémon:</language>
 	</row>
-	<row id="msg_0182_00094" index="94">
+	<row id="msg_0182_RulePokemonLevel" index="94">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokémon level:</language>
 	</row>
-	<row id="msg_0182_00095" index="95">
+	<row id="msg_0182_RuleTotalLevels" index="95">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total levels:</language>
 	</row>
-	<row id="msg_0182_00096" index="96">
+	<row id="msg_0182_RuleHeight" index="96">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Height:</language>
 	</row>
-	<row id="msg_0182_00097" index="97">
+	<row id="msg_0182_RuleWeight" index="97">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Weight:</language>
 	</row>
-	<row id="msg_0182_00098" index="98">
+	<row id="msg_0182_RuleEvolvedPokemon" index="98">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Evolved Pokémon:</language>
 	</row>
-	<row id="msg_0182_00099" index="99">
+	<row id="msg_0182_RuleSpecialPokemon" index="99">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Special Pokémon:</language>
 	</row>
-	<row id="msg_0182_00100" index="100">
+	<row id="msg_0182_RuleSamePokemon" index="100">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Same Pokémon:</language>
 	</row>
-	<row id="msg_0182_00101" index="101">
+	<row id="msg_0182_RuleSameItems" index="101">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Same items:</language>
 	</row>
-	<row id="msg_0182_00102" index="102">
+	<row id="msg_0182_ValueNoOfPokemon" index="102">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 50, 0, 0}</language>
 	</row>
-	<row id="msg_0182_00103" index="103">
+	<row id="msg_0182_ValueMaxLevel" index="103">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Max. {STRVAR_1 52, 0, 0}</language>
 	</row>
-	<row id="msg_0182_00104" index="104">
+	<row id="msg_0182_ValueMaxTotalLevels" index="104">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Max. {STRVAR_1 52, 0, 0}</language>
 	</row>
-	<row id="msg_0182_00105" index="105">
+	<row id="msg_0182_ValueMaxHeight" index="105">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Max. {STRVAR_1 50, 0, 0}’ {STRVAR_1 50, 1, 0}”</language>
 	</row>
-	<row id="msg_0182_00106" index="106">
+	<row id="msg_0182_ValueMinHeight" index="106">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Min. {STRVAR_1 50, 0, 0}’ {STRVAR_1 50, 1, 0}”</language>
 	</row>
-	<row id="msg_0182_00107" index="107">
+	<row id="msg_0182_ValueMaxWeight" index="107">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Max. {STRVAR_1 51, 0, 0} lbs.</language>
 	</row>
-	<row id="msg_0182_00108" index="108">
+	<row id="msg_0182_ValueMinWeight" index="108">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Min. {STRVAR_1 51, 0, 0} lbs.</language>
 	</row>
-	<row id="msg_0182_00109" index="109">
+	<row id="msg_0182_ValuePokemonPermitted" index="109">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Permitted</language>
 	</row>
-	<row id="msg_0182_00110" index="110">
+	<row id="msg_0182_ValuePokemonBanned" index="110">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Banned</language>
 	</row>
-	<row id="msg_0182_00111" index="111">
+	<row id="msg_0182_ValueItemsPermitted" index="111">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Permitted</language>
 	</row>
-	<row id="msg_0182_00112" index="112">
+	<row id="msg_0182_ValueItemsBanned" index="112">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Banned</language>
 	</row>
-	<row id="msg_0182_00113" index="113">
+	<row id="msg_0182_Cup" index="113">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 26, 0, 0} Cup</language>
 	</row>
-	<row id="msg_0182_00114" index="114">
+	<row id="msg_0182_NoRestrictions" index="114">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO RESTRICTIONS</language>
 	</row>
-	<row id="msg_0182_00115" index="115">
+	<row id="msg_0182_Limit2" index="115">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Limit 2</language>
 	</row>
