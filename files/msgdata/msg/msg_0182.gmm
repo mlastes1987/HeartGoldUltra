@@ -33,31 +33,31 @@
 		<language name="English"></language>
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
-	<row id="msg_0182_00008" index="8">
+	<row id="msg_0182_AwaitingContact_SingleBattle" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Single Battle!\nAwaiting contact from your friend.</language>
 	</row>
-	<row id="msg_0182_00009" index="9">
+	<row id="msg_0182_AwaitingContact_DoubleBattle" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Double Battle!\nAwaiting contact from your friend.</language>
 	</row>
-	<row id="msg_0182_00010" index="10">
+	<row id="msg_0182_AwaitingContact_MultiBattle" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Multi Battle!\nAwaiting contact from your friends.</language>
 	</row>
-	<row id="msg_0182_00011" index="11">
+	<row id="msg_0182_AwaitingContact_MixBattle" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mix Battle!\nAwaiting contact from your friend.</language>
 	</row>
-	<row id="msg_0182_00012" index="12">
+	<row id="msg_0182_AwaitingContact_FlatBattle" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Flat Battle!\nAwaiting contact from your friend.</language>
 	</row>
-	<row id="msg_0182_00013" index="13">
+	<row id="msg_0182_AwaitingContact_SafariZoneLink" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Safari Zone Link!\nAwaiting contact from your friend.</language>
 	</row>
-	<row id="msg_0182_00014" index="14">
+	<row id="msg_0182_AwaitingContact_Pokeathlon" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokéathlon!\nAwaiting contact from your friend.</language>
 	</row>
@@ -74,27 +74,27 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When the group is ready:\nA Button: Proceed   B Button: Cancel</language>
 	</row>
-	<row id="msg_0182_00018" index="18">
+	<row id="msg_0182_AwaitingContact_BattleTower" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Tower!\nAwaiting contact from your friend.</language>
 	</row>
-	<row id="msg_0182_00019" index="19">
+	<row id="msg_0182_AwaitingContact_BattleFactory_Lv50" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Factory--Level 50!\nAwaiting contact from your friend.</language>
 	</row>
-	<row id="msg_0182_00020" index="20">
+	<row id="msg_0182_AwaitingContact_BattleFactory_Open" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Factory--Open Level!\nAwaiting contact from your friend.</language>
 	</row>
-	<row id="msg_0182_00021" index="21">
+	<row id="msg_0182_AwaitingContact_BattleHall" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Hall!\nAwaiting contact from your friend.</language>
 	</row>
-	<row id="msg_0182_00022" index="22">
+	<row id="msg_0182_AwaitingContact_BattleCastle" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Castle!\nAwaiting contact from your friend.</language>
 	</row>
-	<row id="msg_0182_00023" index="23">
+	<row id="msg_0182_AwaitingContact_BattleArcade" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Arcade!\nAwaiting contact from your friend.</language>
 	</row>
@@ -103,51 +103,51 @@
 		<language name="English"></language>
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
-	<row id="msg_0182_00025" index="25">
+	<row id="msg_0182_Contacted_SingleBattle" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nStart a Single Battle? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00026" index="26">
+	<row id="msg_0182_Contacted_DoubleBattle" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nStart a Double Battle? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00027" index="27">
+	<row id="msg_0182_Contacted_MixBattle" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nStart a Mix Battle? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00028" index="28">
+	<row id="msg_0182_Contacted_FlatBattle" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nStart a Flat Battle? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00029" index="29">
+	<row id="msg_0182_Contacted_SafariZoneLink" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nStart a Safari Zone Link? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00030" index="30">
+	<row id="msg_0182_Contacted_Pokeathlon" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nLet {STRVAR_1 3, 1, 0} join your group? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00031" index="31">
+	<row id="msg_0182_Contacted_MultiBattle" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nLet {STRVAR_1 3, 1, 0} join your group? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00032" index="32">
+	<row id="msg_0182_Contacted_BattleTower" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nTake Battle Tower challenge? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00033" index="33">
+	<row id="msg_0182_Contacted_BattleFactory" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nTake Battle Factory challenge? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00034" index="34">
+	<row id="msg_0182_Contacted_BattleHall" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nStart the Battle Hall challenge? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00035" index="35">
+	<row id="msg_0182_Contacted_BattleCastle" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nTake Battle Castle challenge? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00036" index="36">
+	<row id="msg_0182_Contacted_BattleArcade" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} has contacted you.\nTake Battle Arcade challenge? {YESNO 0}</language>
 	</row>
@@ -156,11 +156,11 @@
 		<language name="English"></language>
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
-	<row id="msg_0182_00038" index="38">
+	<row id="msg_0182_ConfirmGroup_MultiBattle" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Multi Battle!\nIs this group OK? {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00039" index="39">
+	<row id="msg_0182_ConfirmGroup" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is this group OK? {YESNO 0}</language>
 	</row>
@@ -174,11 +174,11 @@
 		<language name="English"></language>
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
-	<row id="msg_0182_00042" index="42">
+	<row id="msg_0182_ConfirmGroup_Pokeathlon" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokéathlon!\nIs this group OK?{YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00043" index="43">
+	<row id="msg_0182_CancelGroup" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cancel a Multi Battle involving this\ngroup?{YESNO 0}</language>
 	</row>
@@ -197,7 +197,7 @@
 		<language name="English"></language>
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
-	<row id="msg_0182_00047" index="47">
+	<row id="msg_0182_CancelGroup_Pokeathlon" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cancel holding a Pokéathlon\nwith this group? {YESNO 0}</language>
 	</row>
@@ -206,31 +206,31 @@
 		<language name="English"></language>
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
-	<row id="msg_0182_00049" index="49">
+	<row id="msg_0182_Choose_SingleBattle" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the Single Battle you would\nlike to join. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00050" index="50">
+	<row id="msg_0182_Choose_DoubleBattle" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the Double Battle you would\nlike to join. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00051" index="51">
+	<row id="msg_0182_Choose_MultiBattle" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the Multi Battle you would\nlike to join. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00052" index="52">
+	<row id="msg_0182_Choose_MixBattle" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the Mix Battle you would\nlike to join. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00053" index="53">
+	<row id="msg_0182_Choose_FlatBattle" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the Flat Battle you would\nlike to join. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00054" index="54">
+	<row id="msg_0182_Choose_SafariZoneLink" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the Safari Zone Link\nyou would like to join. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00055" index="55">
+	<row id="msg_0182_Choose_Pokeathlon" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the Pokéathlon you would\nlike to join. {YESNO 0}</language>
 	</row>
@@ -249,31 +249,31 @@
 		<language name="English"></language>
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
-	<row id="msg_0182_00059" index="59">
+	<row id="msg_0182_ChooseFriend_BattleTower" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the friend you want to take\nto the Battle Tower. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00060" index="60">
+	<row id="msg_0182_ChooseFriend_BattleFactory_Lv50" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the friend to play with at\nthe Battle Factory--Level 50. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00061" index="61">
+	<row id="msg_0182_ChooseFriend_BattleFactory_Open" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the friend to play with at\nthe Battle Factory--Open Level. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00062" index="62">
+	<row id="msg_0182_ChooseFriend_BattleHall" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the friend to play\nwith at the Battle Hall. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00063" index="63">
+	<row id="msg_0182_ChooseFriend_BattleCastle" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the friend to play\nwith at the Battle Castle. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00064" index="64">
+	<row id="msg_0182_ChooseFriend_BattleArcade" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose the friend to play\nwith at the Battle Arcade. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00065" index="65">
+	<row id="msg_0182_GroupCancelled" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A member has dropped out.\rPlease repeat the registration\nprocess from the beginning.</language>
 	</row>
@@ -287,7 +287,7 @@
 		<language name="English"></language>
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
-	<row id="msg_0182_00068" index="68">
+	<row id="msg_0182_GroupCancelled_Pokeathlon" index="68">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Pokéathlon involving this group will\nbe canceled.</language>
 	</row>
@@ -635,27 +635,27 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Master Course!\nRecruiting other players. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00148" index="148">
+	<row id="msg_0182_ChooseCourseLeader_Jump" index="148">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Speed &amp; Jump Course!\nPlease choose the leader. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00149" index="149">
+	<row id="msg_0182_ChooseCourseLeader_Skill" index="149">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jump &amp; Skill Course!\nPlease choose the leader. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00150" index="150">
+	<row id="msg_0182_ChooseCourseLeader_Power" index="150">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Skill &amp; Power Course!\nPlease choose the leader. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00151" index="151">
+	<row id="msg_0182_ChooseCourseLeader_Stamina" index="151">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Power &amp; Stamina Course!\nPlease choose the leader. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00152" index="152">
+	<row id="msg_0182_ChooseCourseLeader_Speed" index="152">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Stamina &amp; Speed Course!\nPlease choose the leader. {YESNO 0}</language>
 	</row>
-	<row id="msg_0182_00153" index="153">
+	<row id="msg_0182_ChooseCourseLeader_Master" index="153">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Master Course!\nPlease choose the leader. {YESNO 0}</language>
 	</row>
