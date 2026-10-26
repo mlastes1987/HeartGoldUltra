@@ -495,9 +495,9 @@ _02237FD8:
 	str r0, [r1]
 	add r0, r4, #0
 	bl ov12_022389B8
-	bl sub_020210BC
+	bl EnableTouchPad
 	mov r0, #4
-	bl sub_02021148
+	bl InitializeTouchPad
 	mov r0, #1
 	mov r1, #0x1b
 	mov r2, #0xc5
@@ -747,7 +747,7 @@ _0223839E:
 	strb r0, [r4, r1]
 	add r0, r4, #0
 	mov r1, #1
-	bl ov12_022621C4
+	bl BattleSystem_TryRecvMessage
 _022383BA:
 	ldr r0, [r4, #0x44]
 	mov r6, #0
@@ -761,7 +761,7 @@ _022383C6:
 	bl ov12_02258E54
 	add r0, r4, #0
 	add r1, r7, #0
-	bl ov12_022621C4
+	bl BattleSystem_TryRecvMessage
 	ldr r0, [r4, #0x44]
 	add r6, r6, #1
 	add r5, r5, #4
@@ -783,7 +783,7 @@ _022383E0:
 	strb r0, [r4, r1]
 	add r0, r4, #0
 	mov r1, #1
-	bl ov12_022621C4
+	bl BattleSystem_TryRecvMessage
 _02238404:
 	ldr r0, [r4, #0x44]
 	mov r6, #0
@@ -797,7 +797,7 @@ _02238410:
 	bl ov12_02258E54
 	add r0, r4, #0
 	add r1, r7, #0
-	bl ov12_022621C4
+	bl BattleSystem_TryRecvMessage
 	ldr r0, [r4, #0x44]
 	add r6, r6, #1
 	add r5, r5, #4
@@ -1133,7 +1133,7 @@ _022386C0:
 	bl SysTask_Destroy
 	ldr r0, [r4, #0x20]
 	bl SysTask_Destroy
-	bl sub_02021238
+	bl DisableTouchPad
 	ldr r0, [r4]
 	bl ov12_022396E8
 	ldr r0, _02238798 ; =0x00002434

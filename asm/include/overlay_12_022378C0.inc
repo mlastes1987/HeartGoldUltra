@@ -100,9 +100,9 @@
 .public GF_RunVramTransferTasks
 .public sub_02020654
 .public sub_0202067C
-.public sub_020210BC
-.public sub_02021148
-.public sub_02021238
+.public EnableTouchPad
+.public InitializeTouchPad
+.public DisableTouchPad
 .public GfGfx_SetBanks
 .public GfGfx_DisableEngineAPlanes
 .public GfGfx_EngineATogglePlanes
@@ -239,7 +239,7 @@
 .public ov12_02260EA4
 .public ov12_02261264
 .public OpponentData_GetHpBar
-.public ov12_022621C4
+.public BattleSystem_TryRecvMessage
 .public ov12_02265FD4
 .public BgConfig_InitBattleMenuBackgrounds
 .public BgConfig_CleanupBattleMenuBackgrounds
